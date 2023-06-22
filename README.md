@@ -1,6 +1,6 @@
-# Obsidian Sample Plugin
+# Obsidian Busybox Plugin
 
-This is a sample plugin for Obsidian (https://obsidian.md).
+This is a multi-function plugin for Obsidian (https://obsidian.md).
 
 This project uses Typescript to provide type checking and documentation.
 The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
@@ -94,3 +94,5 @@ If you have multiple URLs, you can also do:
 ## API Documentation
 
 See https://github.com/obsidianmd/obsidian-api
+
+TEST UPDATE
